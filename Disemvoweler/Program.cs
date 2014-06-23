@@ -10,6 +10,9 @@ namespace Disemvoweler
     {
         static void Main(string[] args)
         {
+            //This program is going to be awesome
+
+            Console.ReadKey();
         }
     }
 }
