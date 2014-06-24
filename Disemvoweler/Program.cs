@@ -19,7 +19,10 @@ namespace Disemvoweler
             //hold our output
             for (i = 0; i < input.Length; i ++)
             {
+                if (letter == 'a' || letter == 'e' || letter == 'i' || letter == 'o' || letter == 'u')
+                {
 
+                }
             }
         }
     }
