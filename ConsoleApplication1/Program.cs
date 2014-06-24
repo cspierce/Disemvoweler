@@ -4,20 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Disemvoweler
+namespace ConsoleApplication1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //This program is going to be awesome
-
-            Console.ReadKey();
-        }
-        static void Disemvoweler(string input)
-        {
-            //hold our output
-
         }
     }
 }
