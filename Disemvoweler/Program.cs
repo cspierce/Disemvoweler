@@ -17,8 +17,9 @@ namespace Disemvoweler
         static void Disemvoweler(string input)
         {
             //hold our output
-            for (i = 0; i < input.Length; i ++)
+            for (int i = 0; i < input.Length; i ++)
             {
+                char letter = input[i];
                 if (letter == 'a' || letter == 'e' || letter == 'i' || letter == 'o' || letter == 'u')
                 {
 
