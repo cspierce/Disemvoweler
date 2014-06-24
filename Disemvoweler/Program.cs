@@ -17,7 +17,10 @@ namespace Disemvoweler
         static void Disemvoweler(string input)
         {
             //hold our output
+            for (i = 0; i < input.Length; i ++)
+            {
 
+            }
         }
     }
 }
